@@ -1,0 +1,10 @@
+buzzword, what_people_think_it_means, what_it_actually_means
+"machine learning", "skynet", "self-improving data transformation model"
+"neural netwoks", "squishy robot brains", "a node-based framework of computing"
+"deep learning", "really powerful computer stuff", "model processing that takes place over multiple layers"
+"real-time processing", "magic", "processing with minimal latency"
+"big data", "better than regular data", "large volumne unstructured-to-semistructured data"
+"spark", "serious data stuff", "framework for distributed cluster processing"
+"hadoop", "you are finally a big boy business", "one tool for distributed computing"
+"mapReduce", "make maps smaller", "one type of distributed computing"
+
